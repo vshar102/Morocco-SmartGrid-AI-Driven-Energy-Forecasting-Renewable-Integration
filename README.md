@@ -16,4 +16,5 @@ Applied advanced feature engineering including lag variables, rolling window sta
 # Business Impact:
 Delivered actionable insights for Morocco's energy sector enabling improved grid stability, demand response optimization, and strategic capacity planning. The forecasting system supports real-time operational decisions and long-term infrastructure investments, contributing to enhanced energy efficiency and reduced operational costs. Model recommendations include expanding to zone-specific forecasting and real-time pipeline implementation for operational deployment.
 
-# Skills: Python (Programming Language) · Time Series Forecasting · Energy Analytics · Feature Engineering · Random Forest · XGBoost · LSTM · ARIMA/SARIMA · Demand Prediction · Grid Optimization · Model Evaluation · Utilities Sector Analytics
+# Skills: 
+Python (Programming Language) · Time Series Forecasting · Energy Analytics · Feature Engineering · Random Forest · XGBoost · LSTM · ARIMA/SARIMA · Demand Prediction · Grid Optimization · Model Evaluation · Utilities Sector Analytics
